@@ -1,0 +1,10 @@
+Title,Company,Revenue,Budget,Runtime,Vote Average,Vote Count,Popularity,Genre,Release Date,Movie ID
+La La Land,Summit Entertainment,445435700,30000000,129,7.9,8615,20.783,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",2016-11-29,313369
+Arrival,21 Laps Entertainment,203388186,47000000,116,7.4,9005,19.625,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]",2016-11-10,329865
+Lion,The Weinstein Company,140302754,12000000,118,8.1,3092,17.488,"[{'id': 18, 'name': 'Drama'}]",2016-11-24,334543
+Hell or High Water,Sidney Kimmel Entertainment,37589296,12000000,102,7.2,2117,8.546,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 37, 'name': 'Western'}]",2016-08-12,338766
+Hidden Figures,Fox 2000 Pictures,230698791,25000000,127,8.0,3994,16.528,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",2016-12-10,381284
+Moonlight,Pastel,65046687,4000000,111,7.3,3267,12.346,"[{'id': 18, 'name': 'Drama'}]",2016-10-21,376867
+Hacksaw Ridge,Permut Presentations,175302354,40000000,140,8.0,5690,14.517,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",2016-10-07,324786
+Manchester by the Sea,Pearl Street Films,75026965,9000000,135,7.5,2639,10.828,"[{'id': 18, 'name': 'Drama'}]",2016-11-18,334541
+Fences,Paramount,64414761,24000000,139,6.7,1243,8.971,"[{'id': 18, 'name': 'Drama'}]",2016-12-16,393457

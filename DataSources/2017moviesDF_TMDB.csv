@@ -1,0 +1,10 @@
+Title,Company,Revenue,Budget,Runtime,Vote Average,Vote Count,Popularity,Genre,Release Date,Movie ID
+The Shape of Water,Double Dare You Productions,194989655,19500000,123,7.3,5684,21.903,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",2017-12-01,399055
+Darkest Hour,Perfect World Pictures,147568410,30000000,125,7.3,2161,13.953,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",2017-11-22,399404
+Dunkirk,RatPac-Dune Entertainment,525573161,100000000,107,7.4,7684,21.633,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]",2017-07-19,374720
+Phantom Thread,Ghoulardi Film Company,46261438,35000000,131,7.2,1215,10.017,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",2017-12-25,400617
+The Post,Amblin Entertainment,174503458,50000000,116,7.0,1972,11.181,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",2017-12-22,446354
+Call Me by Your Name,La Cinéfacture,41063475,4000000,132,8.3,3722,16.849,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",2017-09-01,398818
+Lady Bird,IAC Films,76858273,10000000,94,7.3,2956,17.112,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",2017-09-08,391713
+"Three Billboards Outside Ebbing, Missouri",Blueprint Pictures,158526998,15000000,115,8.2,4216,15.942,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",2017-11-10,359940
+Get Out,Monkeypaw Productions,255017329,4500000,104,7.4,6950,16.42,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}]",2017-02-24,419430
